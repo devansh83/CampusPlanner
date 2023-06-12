@@ -32,7 +32,7 @@
     <header class="site-header">
       <nav class="navbar navbar-expand-md navbar-dark bg-steel fixed-top">
         <div class="container">
-          <a class="navbar-brand mr-4" href="/">Campus Planner</a>
+          <a class="navbar-brand mr-4" href="/home">Campus Planner</a>
           <button
             class="navbar-toggler"
             type="button"
@@ -46,7 +46,7 @@
           </button>
           <div class="collapse navbar-collapse" id="navbarToggle">
             <div class="navbar-nav mr-auto">
-              <a class="nav-item nav-link" href="/">Home</a>
+              <a class="nav-item nav-link" href="/home">Home</a>
               <a class="nav-item nav-link" href="/timetable">Timetable</a>
               <a class="nav-item nav-link" href="/lostandfound"
                 >Lost and Found</a
@@ -55,6 +55,9 @@
             <!-- Navbar Right Side -->
             <div class="navbar-nav">
               {% if user.is_authenticated %}
+              <a class="nav-item nav-link" href="{% url 'event-create' %}">
+                New Event</a
+              >
               <a class="nav-item nav-link" href="/profile">Profile</a>
               <a class="nav-item nav-link" href="/logout">Logout</a>
               {% else %}
