@@ -1,0 +1,335 @@
+.home-child {
+  position: absolute;
+  top: 0;
+  left: -2px;
+  background-color: var(--color-darkgray);
+  width: 1920px;
+  height: 800px;
+}
+.slider-icon {
+  position: absolute;
+  top: 698px;
+  left: 834px;
+  width: 248px;
+  height: 20px;
+}
+.chevron-left-solid-1-icon,
+.chevron-left-solid-2-icon {
+  position: absolute;
+  top: 368px;
+  left: 30px;
+  width: 37px;
+  height: 59px;
+  overflow: hidden;
+}
+.chevron-left-solid-2-icon {
+  top: 371px;
+  left: 1849px;
+  border-radius: var(--br-11xs);
+}
+.a-day-to,
+.campus-planner {
+  position: absolute;
+  top: 344px;
+  left: 343px;
+  font-weight: 800;
+}
+.a-day-to {
+  top: 439px;
+  left: 344px;
+  font-size: var(--font-size-35xl);
+  color: var(--color-dimgray-100);
+}
+.logo-child {
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-darkslategray);
+  width: 195px;
+  height: 195px;
+}
+.logo,
+.logo-child,
+.logo1 {
+  position: absolute;
+}
+.logo1 {
+  top: 65px;
+  left: 31px;
+  font-weight: 800;
+}
+.logo {
+  top: 56px;
+  left: 338px;
+  width: 195px;
+  height: 195px;
+  font-size: var(--font-size-35xl);
+  color: var(--color-white);
+}
+.header-child,
+.header-item {
+  top: 0;
+  border-radius: var(--br-31xl);
+  height: 99px;
+}
+.header-child {
+  position: absolute;
+  left: 0;
+  width: 964.5px;
+}
+.header-item {
+  left: 670px;
+  background-color: var(--color-gainsboro);
+  width: 295px;
+}
+.header-item,
+.home1,
+.home2 {
+  position: absolute;
+}
+.home2 {
+  top: 0;
+  left: 0;
+  font-weight: 800;
+}
+.home1 {
+  top: 27px;
+  left: 40px;
+  border-radius: var(--br-xl);
+  width: 105px;
+  height: 44px;
+  color: var(--color-white);
+}
+.about {
+  top: 27px;
+  left: 205px;
+  width: 111px;
+}
+.about,
+.contact-us,
+.lost-and-found {
+  position: absolute;
+  border-radius: var(--br-xl);
+  height: 44px;
+}
+.contact-us {
+  top: 25px;
+  left: 707px;
+  width: 195px;
+  color: var(--color-gray-200);
+}
+.lost-and-found {
+  top: 27px;
+  left: 376px;
+  width: 271px;
+}
+.header {
+  position: absolute;
+  top: 104px;
+  left: 649px;
+  width: 965px;
+  height: 99px;
+  font-size: var(--font-size-17xl);
+  color: var(--color-gray-300);
+}
+.group-child,
+.group-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  width: 1920px;
+  height: 700px;
+}
+.group-item {
+  top: 158px;
+  left: 327px;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-gray-100);
+  width: 403px;
+  height: 403px;
+}
+.image-1-icon {
+  position: absolute;
+  top: 212px;
+  left: 391px;
+  width: 275px;
+  height: 275px;
+  object-fit: cover;
+}
+.group-inner {
+  position: absolute;
+  top: 484px;
+  left: 843px;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-dimgray-100);
+  width: 300px;
+  height: 63px;
+}
+.upload {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  font-weight: 800;
+  display: inline-block;
+}
+.group-child1,
+.read-more,
+.rectangle-icon {
+  position: absolute;
+  border-radius: var(--br-81xl);
+}
+.read-more {
+  top: 495px;
+  left: 907px;
+  width: 171px;
+  height: 28px;
+  text-align: center;
+  font-size: var(--font-size-11xl);
+  color: var(--color-white);
+}
+.group-child1,
+.rectangle-icon {
+  top: 319px;
+  left: 1067.5px;
+  width: 404.5px;
+  height: 62px;
+}
+.group-child1 {
+  top: 393px;
+  left: 1068px;
+}
+.contact-no,
+.name {
+  position: absolute;
+  top: 328px;
+  left: 843px;
+}
+.contact-no {
+  top: 396px;
+  left: 849px;
+}
+.contact-us2,
+.please-fill-the {
+  position: absolute;
+  top: 160px;
+  left: 855px;
+  font-size: var(--font-size-45xl);
+  font-weight: 800;
+}
+.please-fill-the {
+  top: 239px;
+  font-size: var(--font-size-29xl);
+  color: var(--color-dimgray-100);
+}
+.rectangle-parent {
+  position: absolute;
+  top: 1304px;
+  left: -4px;
+  width: 1920px;
+  height: 700px;
+  font-size: var(--font-size-17xl);
+}
+.image-2-icon {
+  position: absolute;
+  top: -754px;
+  left: 347px;
+  border-radius: var(--br-161xl);
+  width: 171px;
+  height: 171px;
+  object-fit: cover;
+}
+.rectangle-div {
+  position: absolute;
+  top: 1568px;
+  left: 0;
+  background-color: #fffdfd;
+  width: 1918px;
+  height: 490px;
+}
+.team-members {
+  position: absolute;
+  top: 1614px;
+  left: 695px;
+  font-weight: 800;
+}
+.group-child2,
+.group-child3,
+.group-child4,
+.group-child5,
+.group-child6,
+.group-child7 {
+  position: absolute;
+  top: 1748px;
+  left: 550px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-gainsboro);
+  width: 195px;
+  height: 195px;
+}
+.group-child3,
+.group-child4,
+.group-child5,
+.group-child6,
+.group-child7 {
+  left: 340px;
+}
+.group-child4,
+.group-child5,
+.group-child6,
+.group-child7 {
+  left: 1390px;
+}
+.group-child5,
+.group-child6,
+.group-child7 {
+  left: 1180px;
+}
+.group-child6,
+.group-child7 {
+  left: 971px;
+}
+.group-child7 {
+  left: 761px;
+}
+.image-2-parent {
+  position: absolute;
+  top: -754px;
+  left: -2px;
+  width: 1918px;
+  height: 2058px;
+  color: var(--color-gray-200);
+}
+.methheadsinc-all-rights,
+.privacy-legal {
+  position: absolute;
+  top: 2023px;
+  left: 722px;
+  font-size: var(--font-size-5xl);
+}
+.privacy-legal {
+  top: 2052px;
+  left: 496px;
+}
+.image-2-icon1 {
+  position: absolute;
+  top: 66px;
+  left: 350px;
+  border-radius: var(--br-161xl);
+  width: 171px;
+  height: 171px;
+  object-fit: cover;
+}
+.home {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 2105px;
+  overflow: auto;
+  text-align: left;
+  font-size: var(--font-size-53xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

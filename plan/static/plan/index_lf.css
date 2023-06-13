@@ -1,0 +1,379 @@
+.home-child {
+  position: absolute;
+  top: 0;
+  left: -2px;
+  background-color: #a9a5a5;
+  width: 1920px;
+  height: 800px;
+}
+.slider-icon {
+  position: absolute;
+  top: 698px;
+  left: 834px;
+  width: 248px;
+  height: 20px;
+}
+.chevron-left-solid-1-icon,
+.chevron-left-solid-2-icon {
+  position: absolute;
+  top: 368px;
+  left: 30px;
+  width: 37px;
+  height: 59px;
+  overflow: hidden;
+}
+.chevron-left-solid-2-icon {
+  top: 371px;
+  left: 1849px;
+  border-radius: var(--br-11xs);
+}
+.a-day-to,
+.campus-planner {
+  position: absolute;
+  top: 344px;
+  left: 343px;
+  font-size: var(--font-size-53xl);
+  font-weight: 800;
+}
+.a-day-to {
+  top: 439px;
+  left: 344px;
+  font-size: var(--font-size-35xl);
+  color: var(--color-dimgray-100);
+}
+.logo-child {
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: #484848;
+  width: 195px;
+  height: 195px;
+}
+.logo,
+.logo-child,
+.logo1 {
+  position: absolute;
+}
+.logo1 {
+  top: 65px;
+  left: 31px;
+  font-weight: 800;
+}
+.logo {
+  top: 56px;
+  left: 338px;
+  width: 195px;
+  height: 195px;
+  font-size: var(--font-size-35xl);
+  color: var(--color-white);
+}
+.header-child {
+  left: 0;
+  border-radius: var(--br-31xl);
+  width: 964.5px;
+  height: 99px;
+}
+.header-child,
+.header-item,
+.home2 {
+  position: absolute;
+  top: 0;
+}
+.header-item {
+  left: 341px;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-gainsboro);
+  width: 331px;
+  height: 99px;
+}
+.home2 {
+  left: 0;
+  font-weight: 800;
+}
+.home1 {
+  top: 27px;
+  left: 40px;
+  width: 105px;
+}
+.about,
+.contact-us,
+.home1,
+.lost-and-found1 {
+  position: absolute;
+  border-radius: var(--br-xl);
+  height: 44px;
+}
+.about {
+  top: 27px;
+  left: 205px;
+  width: 111px;
+  color: #fffefe;
+}
+.contact-us,
+.lost-and-found1 {
+  top: 25px;
+  left: 707px;
+  width: 195px;
+}
+.lost-and-found1 {
+  top: 27px;
+  left: 376px;
+  width: 271px;
+  color: var(--color-gray-200);
+}
+.header {
+  position: absolute;
+  top: 104px;
+  left: 649px;
+  width: 964.5px;
+  height: 99px;
+  color: var(--color-white);
+}
+.methheadsinc-all-rights,
+.privacy-legal {
+  position: absolute;
+  top: 0;
+  left: 204px;
+}
+.privacy-legal {
+  top: 30px;
+  left: 0;
+}
+.methheadsinc-all-rights-rese-parent {
+  position: absolute;
+  top: 2122px;
+  left: 566px;
+  width: 927px;
+  height: 59px;
+  font-size: var(--font-size-5xl);
+}
+.group-child,
+.group-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  width: 1920px;
+  height: 700px;
+}
+.group-item {
+  top: 158px;
+  left: 329px;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-gray-100);
+  width: 403px;
+  height: 403px;
+}
+.image-1-icon {
+  position: absolute;
+  top: 212px;
+  left: 393px;
+  width: 275px;
+  height: 275px;
+  object-fit: cover;
+}
+.group-inner {
+  position: absolute;
+  top: 504px;
+  left: 865px;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-dimgray-100);
+  width: 300px;
+  height: 63px;
+}
+.upload {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  font-weight: 800;
+  display: inline-block;
+}
+.group-child1,
+.read-more,
+.rectangle-icon {
+  position: absolute;
+  border-radius: var(--br-81xl);
+}
+.read-more {
+  top: 515px;
+  left: 929px;
+  width: 171px;
+  height: 28px;
+  text-align: center;
+  font-size: var(--font-size-11xl);
+  color: var(--color-white);
+}
+.group-child1,
+.rectangle-icon {
+  top: 319px;
+  left: 1069.5px;
+  width: 404.5px;
+  height: 62px;
+}
+.group-child1 {
+  top: 393px;
+  left: 1070px;
+}
+.contact-no,
+.item-name {
+  position: absolute;
+  top: 328px;
+  left: 851px;
+}
+.contact-no {
+  top: 389px;
+}
+.enter-the-details,
+.found {
+  position: absolute;
+  top: 160px;
+  left: 857px;
+  font-size: var(--font-size-45xl);
+  font-weight: 800;
+}
+.enter-the-details {
+  top: 239px;
+  font-size: var(--font-size-29xl);
+  color: var(--color-dimgray-100);
+}
+.rectangle-parent {
+  position: absolute;
+  top: 800px;
+  left: 3px;
+  width: 1920px;
+  height: 700px;
+}
+.lost-child,
+.rectangle-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.lost-child {
+  background-color: #eaeaea;
+  width: 1920px;
+  height: 700px;
+}
+.rectangle-div {
+  border-radius: var(--br-21xl);
+  background-color: var(--color-gray-100);
+  width: 403px;
+  height: 403px;
+}
+.image-1-icon1 {
+  position: absolute;
+  top: 54px;
+  left: 64px;
+  width: 275px;
+  height: 275px;
+  object-fit: cover;
+}
+.rectangle-group {
+  position: absolute;
+  top: 188px;
+  left: 1177px;
+  width: 403px;
+  height: 403px;
+}
+.group-child2 {
+  top: 344px;
+  left: 14px;
+  background-color: var(--color-dimgray-100);
+  width: 300px;
+  height: 63px;
+}
+.group-child2,
+.group-child3,
+.group-child4,
+.read-more1 {
+  position: absolute;
+  border-radius: var(--br-81xl);
+}
+.read-more1 {
+  top: 355px;
+  left: 78px;
+  width: 171px;
+  height: 28px;
+  text-align: center;
+  font-size: var(--font-size-11xl);
+  color: var(--color-white);
+}
+.group-child3,
+.group-child4 {
+  top: 159px;
+  left: 218.5px;
+  width: 404.5px;
+  height: 62px;
+}
+.group-child4 {
+  top: 233px;
+  left: 219px;
+}
+.contact-no1,
+.item-name1 {
+  position: absolute;
+  top: 168px;
+  left: 0;
+}
+.contact-no1 {
+  top: 229px;
+}
+.enter-the-details1,
+.lost1 {
+  position: absolute;
+  top: 0;
+  left: 6px;
+  font-size: var(--font-size-45xl);
+  font-weight: 800;
+}
+.enter-the-details1 {
+  top: 79px;
+  font-size: var(--font-size-29xl);
+  color: var(--color-dimgray-100);
+}
+.rectangle-container {
+  position: absolute;
+  top: 178px;
+  left: 329px;
+  width: 719px;
+  height: 407px;
+}
+.image-2-icon,
+.lost {
+  position: absolute;
+  top: 1422px;
+  left: 3px;
+  width: 1920px;
+  height: 700px;
+}
+.image-2-icon {
+  top: 66px;
+  left: 350px;
+  border-radius: var(--br-161xl);
+  width: 171px;
+  height: 171px;
+  object-fit: cover;
+}
+.home {
+  background-color: var(--color-white);
+  overflow: auto;
+}
+.home,
+.lost-and-found {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 2213px;
+}
+.lost-and-found-parent {
+  position: relative;
+  width: 100%;
+  height: 2213px;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
