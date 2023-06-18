@@ -13,10 +13,16 @@ Mail at "bdevansh22@iitk.ac.in" for any issues.
 #  
 
 Our Team:
+
 Arin Dhariwal
+
 Devansh Agarwal
+
 Devansh Bansal
+
 Himanshu Shekhar
+
 Sanskar Yaduka
+
 Sujal Agarwal
 
