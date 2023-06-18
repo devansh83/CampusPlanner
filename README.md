@@ -12,7 +12,7 @@ Go to url: "localhost:8000"
 Mail at "bdevansh22@iitk.ac.in" for any issues.
 #  
 
-Our Team:
+## Our Team:
 
 Arin Dhariwal
 
